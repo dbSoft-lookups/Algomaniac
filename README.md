@@ -1,0 +1,2 @@
+# Algomaniac
+Algorithmic challenge.
